@@ -48,7 +48,7 @@ seed_examples:
         answer: "Yes, under Section 133, using force to dishonor someone is a criminal offense."
       - question: "Someone threw ink on a journalist in public to shame him. Is this considered a crime?"
         answer: "Yes, this act falls under Section 133."
-      - question: "At a wedding, the groom’s family forced the bride’s father to bow before them as an act of superiority. Can they be punished?"
+      - question: "At a wedding, the groom's family forced the bride's father to bow before them as an act of superiority. Can they be punished?"
         answer: "Yes, under Section 133, this is an offense."
       - question: "During a meeting, a group dragged someone out forcefully just to embarrass him. Can he file a complaint?"
         answer: "Yes, this is punishable under Section 133."
@@ -62,11 +62,11 @@ seed_examples:
         answer: "This falls under Section 134, as force was used in an attempt to commit theft."
       - question: "At a crowded market, someone tried to grab my gold chain and hit me when I resisted. Is this a crime?"
         answer: "Yes, this is an offense under Section 134."
-      - question: "A thief grabbed a delivery boy’s cash bag and punched him when he refused to let go. Can the thief be charged?"
+      - question: "A thief grabbed a delivery boy's cash bag and punched him when he refused to let go. Can the thief be charged?"
         answer: "Yes, this is a criminal offense under Section 134."
       - question: "During a festival, someone forcefully snatched a mobile phone from a person in the crowd. Can this be reported?"
         answer: "Yes, this is an offense under Section 134."
-      - question: "A thief tried to grab a street vendor’s money and shoved him to escape. Does this fall under any law?"
+      - question: "A thief tried to grab a street vendor's money and shoved him to escape. Does this fall under any law?"
         answer: "Yes, under Section 134, using force while attempting theft is a punishable crime."
 
   - context: |
@@ -76,7 +76,7 @@ seed_examples:
     questions_and_answers:
       - question: "During a rent dispute, my landlord locked my brother inside his room. Can we file a legal complaint?"
         answer: "Yes, this is an offense under Section 135."
-      - question: "At a local meeting, a group of people physically blocked a man from leaving because they didn’t like what he said. Is this legal?"
+      - question: "At a local meeting, a group of people physically blocked a man from leaving because they didn't like what he said. Is this legal?"
         answer: "No, this is wrongful confinement under Section 135."
       - question: "Security guards at a shopping mall locked a customer inside a room without any valid reason. Can he take legal action?"
         answer: "Yes, this falls under Section 135."
@@ -92,6 +92,6 @@ document_outline: |
 
 document:
   repo: https://github.com/piyushianand/taxonomy
-  commit: 60fd8b0c0fdfcc4a9f1b43f4aa518670e70cffcf
+  commit: 2a94c21c550589e99d27e6949506e3f8f303a96b 
   patterns:
     - criminal_force.md
