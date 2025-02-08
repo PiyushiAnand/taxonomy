@@ -92,6 +92,6 @@ document_outline: |
 
 document:
   repo: https://github.com/piyushianand/taxonomy
-  commit: 2a94c21c550589e99d27e6949506e3f8f303a96b 
+  commit: 3ad9b1204b587969d1c66f24c72ed3cf6f76b4a6
   patterns:
     - criminal_force.md
