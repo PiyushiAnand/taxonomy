@@ -2,7 +2,7 @@ version: 3
 
 # General information about the document
 domain: legal
-created_by: piyushianand
+created_by: kundeshwar
 
 seed_examples:
 
@@ -92,6 +92,6 @@ document_outline: |
 
 document:
   repo: https://github.com/piyushianand/taxonomy
-  commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0f
+  commit: 60fd8b0c0fdfcc4a9f1b43f4aa518670e70cffcf
   patterns:
     - criminal_force.md
