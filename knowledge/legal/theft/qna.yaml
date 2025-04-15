@@ -84,9 +84,9 @@
 
 # document:
 #   repo: https://github.com/piyushianand/taxonomy
-#   commit: b2e743cffa69f398bdfeaa4522de67457bdfa21c
+#   commit: ad3595fb253947013ddbf377475edf1f300bd95c
 #   patterns:
-#     - theft.md
+#     - hindi_theft.md
 
 version: 3
 domain: legal
